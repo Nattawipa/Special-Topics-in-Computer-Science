@@ -1,0 +1,9 @@
+numpy
+pandas
+scikit-learn
+flask
+requests
+
+# If needed, you may install additional packages here.
+# If no additional package is needed, you do not have to add anything.
+# YOUR CODE HERE
